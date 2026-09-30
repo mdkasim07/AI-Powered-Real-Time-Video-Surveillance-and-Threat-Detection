@@ -1,0 +1,9 @@
+path: DataSet/Sohas_weapon-Detection
+
+train: images
+val: images_test
+
+names:
+  0: gun
+  1: knife
+  2: pistol
